@@ -12,6 +12,4 @@ pip install sys
 
 pip install time
 
-pip install
-
 pip install webdriver-manager
