@@ -7,9 +7,9 @@ V1 Will only create 1 account at a time and has no gui all inputs are in termina
 
 V2 You can make multiple accounts at once has no gui all inputs are in terminal
 
-V3 Is a work in progress that will be gui based and I will be adding more features.
+V3 Can make multiple accounts at once and is GUI based
 # Prerequsits
-
+For All Versions:
 Google Chrome installed
 
 pip install random
@@ -21,6 +21,13 @@ pip install sys
 pip install time
 
 pip install webdriver-manager
+
+For Version 3 only:
+
+pip install tkinter
+
+pip install customtkinter
+
 
 # FYI
 V2 allows you do make multiple accounts without having to start and stop the program.
