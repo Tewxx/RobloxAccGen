@@ -10,6 +10,7 @@ V2 You can make multiple accounts at once has no gui all inputs are in terminal
 V3 Can make multiple accounts at once and is GUI based
 # Prerequsits
 For All Versions:
+
 Google Chrome installed
 
 pip install random
