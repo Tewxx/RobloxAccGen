@@ -3,7 +3,11 @@ A Roblox Account Generator **Education purposes use only!!**
 
 This will only work if there is no captcha
 
-Only creates 1 account at a time with V1, V2 can create multiple accounts at a time.
+V1 Will only create 1 account at a time and has no gui all inputs are in terminal
+
+V2 You can make multiple accounts at once has no gui all inputs are in terminal
+
+V3 Is a work in progress that will be gui based and I will be adding more features.
 # Prerequsits
 
 Google Chrome installed
