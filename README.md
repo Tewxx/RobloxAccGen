@@ -28,8 +28,3 @@ For Version 3 only:
 pip install tkinter
 
 pip install customtkinter
-
-
-# FYI
-V2 allows you do make multiple accounts without having to start and stop the program.
-Original program generates only 1 account, to generate more stop and start the program again.
