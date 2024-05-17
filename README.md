@@ -29,4 +29,4 @@ pip install tkinter
 
 pip install customtkinter
 # Screenshots
-![alt text]([https://i.imgur.com/Ou8F79g.png](https://i.imgur.com/Zz3nLKz.png))
+![alt text](https://i.imgur.com/Ou8F79g.png](https://i.imgur.com/Zz3nLKz.png)
