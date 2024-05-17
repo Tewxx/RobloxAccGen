@@ -28,5 +28,5 @@ For Version 3 only:
 pip install tkinter
 
 pip install customtkinter
-#Screenshots
+# Screenshots
 ![alt text](https://i.imgur.com/Ou8F79g.png)
