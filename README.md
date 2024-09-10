@@ -5,7 +5,7 @@ This will only work if there is no captcha
 
 V1 Will only create 1 account at a time and has no gui all inputs are in terminal
 
-V2 You can make multiple accounts at once has no gui all inputs are in terminal
+V2 You can make multiple accounts in order has no gui all inputs are in terminal
 
 V3 Can make multiple accounts at once and is GUI based
 # Prerequsits
