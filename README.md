@@ -13,8 +13,6 @@ For All Versions:
 
 Google Chrome installed
 
-pip install random
-
 pip install selenium
 
 pip install sys
