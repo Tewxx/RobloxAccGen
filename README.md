@@ -1,14 +1,28 @@
-# RobloxAccGen
-A Roblox Account Generator **Education purposes use only!!**
+<p align="left">
+    <img src="https://i.imgur.com/bavlgvz.png?raw=true" style="width: 69%">
+</p>
 
-This will only work if there is no captcha
+## 
 
-V1 Will only create 1 account at a time and has no gui all inputs are in terminal(Archived)
+A Roblox Account Generator!
 
-V2 You can make multiple accounts in order has no gui all inputs are in terminal(Archived)
+<div align="left">
+  <img src="https://img.shields.io/github/last-commit/Tewxx/RobloxAccGen" alt="GitHub last commit"/>
+  <img src="https://img.shields.io/github/languages/code-size/Tewxx/RobloxAccGen" alt="GitHub code size in bytes"/>
+</div>
 
-V3 Can make multiple accounts at once and is GUI based(Main Version)
-# Prerequsits
+## Info 🔗
+
+This will only work if there is no captcha sadly...
+
+V1 Will only create 1 account at a time and has no gui all inputs are in terminal **(Archived Only)**
+
+V2 You can make multiple accounts in order has no gui all inputs are in terminal **(Archived Only)**
+
+V3 Can make multiple accounts at once and is GUI based **(Main Version)**
+
+## Prerequsit libraries ⚖
+
 For All Versions:
 
 Google Chrome installed
@@ -26,5 +40,11 @@ For Version 3 only:
 pip install tkinter
 
 pip install customtkinter
-# Screenshots
-![alt text](https://i.imgur.com/Zz3nLKz.png)
+## Screenshots 🖥
+<details>
+<summary>GUI</summary>
+  
+![image](https://github.com/user-attachments/assets/1c3766e7-f5c0-4b7a-bea3-29eba8fa64c6)
+
+
+
