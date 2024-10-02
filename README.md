@@ -25,23 +25,25 @@ V3: Can make multiple accounts at once and is GUI-based. **(Main Version)**
 
 ## Prerequsit libraries ⚖
 
-For All Versions:
+**For All Versions:**
 
-Google Chrome installed
+- Google Chrome installed
 
-pip install selenium
+- pip install selenium
 
-pip install sys
+- pip install sys
 
-pip install time
+- pip install time
 
-pip install webdriver-manager
+- pip install webdriver-manager
 
-For Version 3 only:
 
-pip install tkinter
+**For Version 3 only:**
 
-pip install customtkinter
+
+- pip install tkinter
+
+- pip install customtkinter
 
 ## Screenshots 🖥
 <details>
