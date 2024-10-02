@@ -5,6 +5,7 @@
 ## 
 
 A Roblox Account Generator!
+**New!** There is a compiled version in the releases tab if you would prefer that!
 
 <div align="left">
   <img src="https://img.shields.io/github/last-commit/Tewxx/RobloxAccGen" alt="GitHub last commit"/>
@@ -13,13 +14,13 @@ A Roblox Account Generator!
 
 ## Info 🔗
 
-This will only work if there is no captcha sadly...
+This will only work if there is no captcha, sadly...
 
-V1 Will only create 1 account at a time and has no gui all inputs are in terminal **(Archived Only)**
+V1: Will only create one account at a time and has no GUI. All inputs are in the terminal. **(Archived Only)**
 
-V2 You can make multiple accounts in order has no gui all inputs are in terminal **(Archived Only)**
+V2: You can make multiple accounts in order and has no GUI. All inputs are in the terminal. **(Archived Only)**
 
-V3 Can make multiple accounts at once and is GUI based **(Main Version)**
+V3: Can make multiple accounts at once and is GUI-based. **(Main Version)**
 
 ## Prerequsit libraries ⚖
 
@@ -40,6 +41,7 @@ For Version 3 only:
 pip install tkinter
 
 pip install customtkinter
+
 ## Screenshots 🖥
 <details>
 <summary>GUI</summary>
