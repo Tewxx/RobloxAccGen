@@ -4,8 +4,9 @@
 
 ## 
 
-A Roblox Account Generator!
-**New!** There is a compiled version in the releases tab if you would prefer that!
+A Roblox Account Generator! | Made with ♥ by Tewxx
+
+**New!** There is a compiled exe version in the releases tab if you would prefer that!
 
 <div align="left">
   <img src="https://img.shields.io/github/last-commit/Tewxx/RobloxAccGen" alt="GitHub last commit"/>
